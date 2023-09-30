@@ -1,5 +1,5 @@
 ## This is a NETFLIX CLONE APP ##
-![netflix](https://github.com/hlewis910/netflix/assets/35049824/3bf73bf7-9d32-45e7-b41d-f44ed7119bcb) 
+![netflix](https://github.com/hlewis910/netflix_video_dev/assets/35049824/68a88ad5-8de0-4c2e-962b-68a46978d5b8)
 
 
 ### Features:  ###
@@ -54,3 +54,4 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
 [Next.js deployment documentation](https://nextjs.org/docs/deployment) 
+
